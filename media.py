@@ -1,6 +1,7 @@
 class Movie():
     """
-    Movie class to create data set of different movies and store their information.
+    Movie class to create data set of different movies
+    and store their information.
 
     Attributes:
         title : To store information of movie title

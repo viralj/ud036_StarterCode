@@ -22,7 +22,6 @@ interstellar = media.Movie("Interstellar",
                            interstellar_pi,
                            "https://www.youtube.com/watch?v=zSWdZVtXT7E")
 
-
 inception_sl = "A thief, who steals corporate secrets through " \
                "use of dream-sharing technology, " \
                "is given the inverse task of planting " \
@@ -37,7 +36,6 @@ inception = media.Movie("Inception",
                         inception_sl,
                         inception_pi,
                         "https://www.youtube.com/watch?v=8hP9D6kZseM")
-
 
 the_matrix_sl = "A computer hacker learns from " \
                 "mysterious rebels about the true " \
@@ -55,7 +53,6 @@ the_matrix = media.Movie("The Matrix",
                          the_matrix_pi,
                          "https://www.youtube.com/watch?v=m8e-FF8MsqU")
 
-
 avatar_sl = "A paraplegic marine dispatched to the " \
             "moon Pandora on a unique mission " \
             "becomes torn between following his " \
@@ -70,7 +67,6 @@ avatar = media.Movie("Avatar",
                      avatar_pi,
                      "https://www.youtube.com/watch?v=5PSNL1qE6VY")
 
-
 the_martian_sl = "An astronaut becomes stranded on " \
                  "Mars after his team assume him dead," \
                  " and must rely on his ingenuity to " \
@@ -84,7 +80,6 @@ the_martian = media.Movie("The Martian",
                           the_martian_sl,
                           the_martian_pi,
                           "https://www.youtube.com/watch?v=Ue4PCI0NamI")
-
 
 x_men_sl = "After the re-emergence of the world's " \
            "first mutant, world-destroyer Apocalypse, " \

@@ -35,7 +35,8 @@ x_men = media.Movie("X-Men: Apocalypse",
                     "https://www.youtube.com/watch?v=PfBVIHgQbYk")
 
 """
-Movies list to store all movies
+Movies list to store all Movie objects created above. This list will be passed in open_movies_page function to create
+html page and open it in web browser to display information about movies.
 """
 
 movies = [interstellar, inception, the_matrix, avatar, the_martian, x_men]

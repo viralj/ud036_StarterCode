@@ -4,7 +4,7 @@ class Movie():
 
     Attributes:
         title : To store information of movie title
-        story_line : To store information of movie story line
+        storyline : To store information of movie story line
         poster_image : To store information of movie poster image
         trailer_link : To store information of movie trailer link
     """

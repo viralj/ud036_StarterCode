@@ -2,7 +2,7 @@ import fresh_tomatoes
 import media
 
 """
-Different movies with details
+Different Movie objects with the information passed in it.
 """
 interstellar = media.Movie("Interstellar",
                            "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
